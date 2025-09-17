@@ -1,0 +1,30 @@
+# macOS system files
+.DS_Store
+
+# Linux executables
+a.out
+
+# Compiled object files
+*.o
+
+# Executable files
+*.exe
+
+# Build output directories
+/build/
+/bin/
+/out/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# IDE/editor config (examples for VSCode and CLion)
+.vscode/
+.idea/
+
+# OS-specific files
+Thumbs.db
