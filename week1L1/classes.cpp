@@ -22,8 +22,6 @@ public:
         return width * height;
     }
 };
-
-
 int main(){
     Student s1;
     s1.name = "Adham";
